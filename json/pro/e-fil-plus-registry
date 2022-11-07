@@ -1,7 +1,7 @@
 {
 "notaries": [
  {
-   "id": 3,
+   "id": 1,
    "organization": "1475",
    "name": "Simon",
    "election_round": "2nd, 3rd",
@@ -29,35 +29,7 @@
    }
 },
  {
-   "id": 5,
-   "organization": "BingHe Web3.0 Lab",
-   "name": "",
-   "election_round": "2nd, 3rd",
-   "status": "Active",
-   "use_case": "General",
-   "location": "Greater China",
-   "website": "",
-   "email": [
-      "610145641@qq.com"
-   ],
-   "fil_slack_id": "BingHe Web3.0 Lab(冰河web3实验室)",
-   "github_user": [
-      "MRJAVAZHAO"
-   ],
-   "ldn_config": {
-      "active_signer": true,
-      "signing_address": "f14gme3f52prtyzk6pblogrdd6b6ivp4swc6qmesi"
-   },
-   "direct_config": {
-      "active_signer": true,
-      "signing_address": "f14gme3f52prtyzk6pblogrdd6b6ivp4swc6qmesi"
-   },
-   "previous_config": {
-      "signing_address": ""
-   }
-},
- {
-   "id": 8,
+   "id": 2,
    "organization": "BlockMaker",
    "name": "",
    "election_round": "3rd",
@@ -85,7 +57,7 @@
    }
 },
  {
-   "id": 9,
+   "id": 3,
    "organization": "ByteBase",
    "name": "Eric",
    "election_round": "3rd",
@@ -113,7 +85,7 @@
    }
 },
  {
-   "id": 10,
+   "id": 4,
    "organization": "Cabrina Huang",
    "name": "",
    "election_round": "3rd",
@@ -141,7 +113,7 @@
    }
 },
  {
-   "id": 15,
+   "id": 5,
    "organization": "Fenbushi Capital",
    "name": "",
    "election_round": "2nd, 3rd",
@@ -169,7 +141,7 @@
    }
 },
  {
-   "id": 17,
+   "id": 6,
    "organization": "Filswan",
    "name": "Charles Cao",
    "election_round": "2nd, 3rd",
@@ -197,7 +169,7 @@
    }
 },
  {
-   "id": 22,
+   "id": 7,
    "organization": "Guazi Dynamic",
    "name": "Fatman13",
    "election_round": "3rd",
@@ -225,7 +197,7 @@
    }
 },
  {
-   "id": 28,
+   "id": 8,
    "organization": "IPFSMain",
    "name": "Neo Ge",
    "election_round": "2nd, 3rd",
@@ -253,7 +225,7 @@
    }
 },
  {
-   "id": 31,
+   "id": 9,
    "organization": "MatrixStorage",
    "name": "",
    "election_round": "3rd",
@@ -281,7 +253,7 @@
    }
 },
  {
-   "id": 34,
+   "id": 10,
    "organization": "New Web Group",
    "name": "",
    "election_round": "3rd",
@@ -310,35 +282,35 @@
    }
 },
  {
-   "id": 38,
-   "organization": "Performive",
-   "name": "Tim Williams",
+   "id": 11,
+   "organization": "BingHe Web3.0 Lab",
+   "name": "",
    "election_round": "2nd, 3rd",
    "status": "Active",
    "use_case": "General",
-   "location": "North America",
+   "location": "Greater China",
    "website": "",
    "email": [
-      "wtim0029@gmail.com"
+      "610145641@qq.com"
    ],
-   "fil_slack_id": "@Tim Williams",
+   "fil_slack_id": "BingHe Web3.0 Lab(冰河web3实验室)",
    "github_user": [
-      "TimWilliams00"
+      "MRJAVAZHAO"
    ],
    "ldn_config": {
       "active_signer": true,
-      "signing_address": "f1fkxkfxgopjf3ufnfg5i3m6qlwf73kp4w5zz7nnq"
+      "signing_address": "f14gme3f52prtyzk6pblogrdd6b6ivp4swc6qmesi"
    },
    "direct_config": {
       "active_signer": true,
-      "signing_address": "f1fkxkfxgopjf3ufnfg5i3m6qlwf73kp4w5zz7nnq"
+      "signing_address": "f14gme3f52prtyzk6pblogrdd6b6ivp4swc6qmesi"
    },
    "previous_config": {
       "signing_address": ""
    }
 },
  {
-   "id": 39,
+   "id": 12,
    "organization": "PiKNiK",
    "name": "James Hoang",
    "election_round": "3rd",
@@ -366,7 +338,7 @@
    }
 },
  {
-   "id": 40,
+   "id": 13,
    "organization": "Pluskit",
    "name": "",
    "election_round": "3rd",
@@ -394,7 +366,7 @@
    }
 },
  {
-   "id": 42,
+   "id": 14,
    "organization": "Speedium",
    "name": "Wijnand Schouten",
    "election_round": "2nd, 3rd",
@@ -422,7 +394,7 @@
    }
 },
  {
-   "id": 48,
+   "id": 15,
    "organization": "Tianji Studio",
    "name": "Bailey-li",
    "election_round": "3rd",
@@ -450,7 +422,7 @@
    }
 },
  {
-   "id": 49,
+   "id": 16,
    "organization": "Tinfra",
    "name": "",
    "election_round": "3rd",
@@ -480,5 +452,6 @@
       "signing_address": "f3rxsadodcupkqtxuh5lf3yn2i4z3ktmljfcuzfft4dm6kcy7znm2qzrbqfda3e4rjtdhq7vfqknt2yvqvn7ca"
    }
 },
+
 ]
 }
