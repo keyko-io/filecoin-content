@@ -452,6 +452,149 @@
       "signing_address": "f3rxsadodcupkqtxuh5lf3yn2i4z3ktmljfcuzfft4dm6kcy7znm2qzrbqfda3e4rjtdhq7vfqknt2yvqvn7ca"
    }
 },
-
+ {
+   "id": 17,
+   "organization": "Coffee Cloud",
+   "name": "",
+   "election_round": "3rd",
+   "status": "Active",
+   "use_case": "General",
+   "location": "Greater China",
+   "website": "https://coffeecloud.io/home",
+   "email": [
+      "job@coffeecloud.io",
+      "david@coffeecloud.io"
+   ],
+   "fil_slack_id": "@job deng, Dave CoffeeCloud",
+   "github_user": [
+      "jobdeng",
+      "davidthoms"
+   ],
+   "ldn_config": {
+      "active_signer": true,
+      "signing_address": "f14qmuid2b6ne4342m5dk56f4rcr7y5sz4sg5fiwy"
+   },
+   "direct_config": {
+      "active_signer": true,
+      "signing_address": "f14qmuid2b6ne4342m5dk56f4rcr7y5sz4sg5fiwy"
+   },
+   "previous_config": {
+      "signing_address": "f13weizhii77v7bp2jb3h5sjotrfmhchee5ktlnvq"
+   }
+},
+ {
+   "id": 18,
+   "organization": "Union Labs (formally IPFSUnion)",
+   "name": "Jackie Mo",
+   "election_round": "2nd, 3rd",
+   "status": "Active",
+   "use_case": "Web 3.0 / Decentralized Applications, Web 2.0 Applications, User Content, Scientific Data, Media & Entertainment, Other",
+   "location": "Greater China",
+   "website": "",
+   "email": [
+      "Unionlabs2020@gmail.com"
+   ],
+   "fil_slack_id": "@Jackie - UnionLabs",
+   "github_user": [
+      "UnionLabs2020"
+   ],
+   "ldn_config": {
+      "active_signer": true,
+      "signing_address": "f17xdri3wunqgld7dm23e4f3eqsntjakwc47xjo6i"
+   },
+   "direct_config": {
+      "active_signer": true,
+      "signing_address": "f17xdri3wunqgld7dm23e4f3eqsntjakwc47xjo6i"
+   },
+   "previous_config": {
+      "signing_address": "f1enfilmuyphmnqexjt33zfbk56c25mo2lplgbpxa"
+   }
+},
+ {
+   "id": 19,
+   "organization": "STCloud",
+   "name": "Barry",
+   "election_round": "3rd",
+   "status": "Active",
+   "use_case": "Individual user storage, enterprise user storage, public project storage, scientific data sets, video and music",
+   "location": "Greater China",
+   "website": "",
+   "email": [
+      "zxydoris666888@gmail.com"
+   ],
+   "fil_slack_id": "LISA",
+   "github_user": [
+      "1LISA2"
+   ],
+   "ldn_config": {
+      "active_signer": true,
+      "signing_address": "f1jvvltduw35u6inn5tr4nfualyd42bh3vjtylgci"
+   },
+   "direct_config": {
+      "active_signer": true,
+      "signing_address": "f1jvvltduw35u6inn5tr4nfualyd42bh3vjtylgci"
+   },
+   "previous_config": {
+      "signing_address": ""
+   }
+},
+ {
+   "id": 20,
+   "organization": "Origin Storage",
+   "name": "",
+   "election_round": "3rd",
+   "status": "Active",
+   "use_case": "General, Web3.0 application data and web2.0 p2p cdn data",
+   "location": "North America",
+   "website": "https://www.originstorage.io/",
+   "email": [
+      "guoyong90hou@gmail.com",
+      "sddenter@gmail.com"
+   ],
+   "fil_slack_id": "cryptostack：U01FV5B9Z2P Tom [OriginStorage] : U037UV4Q8HL Zou [OriginStorage] : U01K3DQE0EB",
+   "github_user": [
+      "llifezou",
+      "Tom-OriginStorage"
+   ],
+   "ldn_config": {
+      "active_signer": true,
+      "signing_address": "f1q6bpjlqia6iemqbrdaxr2uehrhpvoju3qh4lpga"
+   },
+   "direct_config": {
+      "active_signer": true,
+      "signing_address": "f1q6bpjlqia6iemqbrdaxr2uehrhpvoju3qh4lpga"
+   },
+   "previous_config": {
+      "signing_address": ""
+   }
+},
+ {
+   "id": 21,
+   "organization": "ND Labs",
+   "name": "Leo",
+   "election_round": "3rd",
+   "status": "Active",
+   "use_case": "General",
+   "location": "Asia minus GCN",
+   "website": "",
+   "email": [
+      "hzpd@ndlabs.io"
+   ],
+   "fil_slack_id": "hzpd@ndlabs.io",
+   "github_user": [
+      "NDLabs"
+   ],
+   "ldn_config": {
+      "active_signer": true,
+      "signing_address": "f1y7xmlneep3qtxcumqlmqrja3fhqdxdaxwou6mdq"
+   },
+   "direct_config": {
+      "active_signer": true,
+      "signing_address": "f1y7xmlneep3qtxcumqlmqrja3fhqdxdaxwou6mdq"
+   },
+   "previous_config": {
+      "signing_address": ""
+   }
+},
 ]
 }
