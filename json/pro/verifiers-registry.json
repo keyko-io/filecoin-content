@@ -26,7 +26,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 2,
@@ -54,7 +55,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 3,
@@ -82,7 +84,8 @@
    },
    "previous_config": {
       "signing_address": "f1lwpw2bcv66pla3lpkcuzquw37pbx7ur4m6zvq2a"
-   }
+   },
+   "Efil": true
 },
  {
    "id": 4,
@@ -110,7 +113,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 5,
@@ -138,7 +142,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 6,
@@ -166,7 +171,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 7,
@@ -194,7 +200,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 8,
@@ -222,7 +229,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 9,
@@ -250,7 +258,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 10,
@@ -278,7 +287,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 11,
@@ -308,7 +318,8 @@
    },
    "previous_config": {
       "signing_address": "f13weizhii77v7bp2jb3h5sjotrfmhchee5ktlnvq"
-   }
+   },
+   "Efil": true
 },
  {
    "id": 12,
@@ -336,7 +347,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 13,
@@ -364,7 +376,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 14,
@@ -393,7 +406,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 15,
@@ -421,7 +435,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 16,
@@ -449,7 +464,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 17,
@@ -477,7 +493,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 18,
@@ -505,7 +522,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 19,
@@ -533,7 +551,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 20,
@@ -561,7 +580,8 @@
    },
    "previous_config": {
       "signing_address": "f1jqyyoqncny5bbo5inwnopjrcoig4ivxlm5pnxly"
-   }
+   },
+   "Efil": false
 },
  {
    "id": 21,
@@ -591,7 +611,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 22,
@@ -619,7 +640,8 @@
    },
    "previous_config": {
       "signing_address": "f15ofoeeq57euuha3ig273lhkcpjhhnlbgyylqdii"
-   }
+   },
+   "Efil": true
 },
  {
    "id": 23,
@@ -647,7 +669,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 24,
@@ -676,7 +699,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 25,
@@ -704,7 +728,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 26,
@@ -732,7 +757,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 27,
@@ -760,7 +786,8 @@
    },
    "previous_config": {
       "signing_address": "f1qoxqy3npwcvoqy7gpstm65lejcy7pkd3hqqekna"
-   }
+   },
+   "Efil": false
 },
  {
    "id": 28,
@@ -788,7 +815,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 29,
@@ -816,7 +844,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 30,
@@ -844,7 +873,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 31,
@@ -872,7 +902,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 32,
@@ -900,7 +931,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 33,
@@ -928,7 +960,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 34,
@@ -957,7 +990,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 35,
@@ -985,7 +1019,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 36,
@@ -1013,7 +1048,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 37,
@@ -1043,7 +1079,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 38,
@@ -1071,7 +1108,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 39,
@@ -1099,7 +1137,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 40,
@@ -1127,7 +1166,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 41,
@@ -1155,7 +1195,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 42,
@@ -1183,7 +1224,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 43,
@@ -1211,7 +1253,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 44,
@@ -1239,7 +1282,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 45,
@@ -1267,7 +1311,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 46,
@@ -1296,7 +1341,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 47,
@@ -1324,7 +1370,8 @@
    },
    "previous_config": {
       "signing_address": "f2kb4izxsxu2jyyslzwmv2sfbrgpld56efedgru5i"
-   }
+   },
+   "Efil": false
 },
  {
    "id": 48,
@@ -1352,7 +1399,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": true
 },
  {
    "id": 49,
@@ -1383,7 +1431,8 @@
    },
    "previous_config": {
       "signing_address": "f3rxsadodcupkqtxuh5lf3yn2i4z3ktmljfcuzfft4dm6kcy7znm2qzrbqfda3e4rjtdhq7vfqknt2yvqvn7ca"
-   }
+   },
+   "Efil": true
 },
  {
    "id": 50,
@@ -1411,7 +1460,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 51,
@@ -1439,7 +1489,8 @@
    },
    "previous_config": {
       "signing_address": "f1enfilmuyphmnqexjt33zfbk56c25mo2lplgbpxa"
-   }
+   },
+   "Efil": true
 },
  {
    "id": 52,
@@ -1467,7 +1518,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 53,
@@ -1498,7 +1550,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 },
  {
    "id": 54,
@@ -1526,7 +1579,8 @@
    },
    "previous_config": {
       "signing_address": ""
-   }
+   },
+   "Efil": false
 }
 ]
 }
