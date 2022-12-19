@@ -47,6 +47,7 @@ This bot run every 3 hours, call the lotus node and the Dmob api to check the re
 - Maintained by Filecoin team
 - fil+ application accesses it using fvt to parse the node content
 - front end use fst to sign transactions and send them to the node
+- [repository](https://github.com/filecoin-project/lotus)
 
 ### Dmob API
 - Maintained by Dmob team
@@ -54,6 +55,9 @@ This bot run every 3 hours, call the lotus node and the Dmob api to check the re
 
 ### Github Repositories
 - filecoin-project repositories used to store public information about datacap requests
+repos:
+    - [filecoin-plus-large-datasets](https://github.com/filecoin-project/filecoin-plus-large-datasets)
+    - [notary-governance](https://github.com/filecoin-project/notary-governance/)
 
 ### AWS Lambda
 - Used to save and retrieve logs for fil+ application
