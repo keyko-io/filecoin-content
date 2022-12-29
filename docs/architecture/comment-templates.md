@@ -65,7 +65,7 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Request Approved Comment_
 
-\- This comment is triggered by the notaries using the filplus website. The first message is called the approval message. 
+\- This comment is triggered by the notaries using the filplus website. The second message is called the approval message. 
 
 ```
 ## Request Approved
