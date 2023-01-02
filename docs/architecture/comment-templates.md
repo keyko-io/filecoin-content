@@ -152,7 +152,7 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Subsequent  Allocation Comment_
 
-\- This comment is created by the bot with subsequent allocation number information.
+\- This comment is created by the SSA bot with subsequent allocation number information.
 
 ```
 ## DataCap Allocation requested
