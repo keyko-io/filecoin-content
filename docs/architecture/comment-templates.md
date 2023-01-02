@@ -94,7 +94,7 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Issue Reconnection Request_
 
-\- ask fabri for description.
+\- This is needed to reconnect a closed issue to the new one.
 
 ```
 ## Multisig Notary Reconnection Request
@@ -108,7 +108,7 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Notary Confirmation Comment_
 
-\- ask fabri for description.
+\- This comment is posted when a RKH signs a transaction.
 
 ```
 ## The request has been signed by a new Root Key Holder
@@ -119,7 +119,7 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Weekly DataCap Allocation Update Comment_
 
-\- ask fabri for description.
+\- This comment is used for updating the weekly datacap request.
 
 ```
 ## Weekly DataCap Allocation Update requested
