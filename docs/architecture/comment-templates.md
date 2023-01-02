@@ -1,4 +1,6 @@
-# Large Dataset Application comment templates
+# Filecoin Plus Application Comment Templates
+
+## LDN
 
 ## _Datacap Request Trigger Comment_
 
@@ -19,7 +21,7 @@
 
 ## _DataCap Allocation Requested Comment_
 
-\- This comment is made by the bot after the Datacap Request Trigger message has been created.
+\- This comment is made by the LDN bot after the Datacap Request Trigger message has been created.
 
 ```
 ## DataCap Allocation requested
@@ -89,6 +91,20 @@ Your Datacap Allocation Request has been approved by the Notary
 
 #### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacec7gf6xycdqw3fzgs76ppn3mgtojntd5tvqrrmedvcqciw5tghjps
 ```
+## _Multisig Notary Requested Comment_
+
+\- Old template used for creating multisig. **Not used anymore**.
+
+```
+## Multisig Notary requested
+
+#### Total DataCap requested
+> 5PiB
+
+#### Expected weekly DataCap usage rate
+> 500TiB
+```
+
 
 ## _Subsequent  Allocation Comment_
 
