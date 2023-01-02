@@ -4,7 +4,7 @@
 
 ## _Datacap Request Trigger Comment_
 
-\-  This is a manual comment triggered by Root Key Holders. In order to trigger this comment, the necessary information in the application must be filled in completely and correctly. (v3)
+\-  This is a manual comment triggered by governance team. In order to trigger this comment, the necessary information in the application must be filled in completely and correctly. (v3)
 
 ```
 ## Datacap Request Trigger
@@ -41,7 +41,7 @@
 
 ## _Request Proposed Comment_
 
-\- This comment generated from filplus website by the operation of notaries. The first message is called the proposal message. 
+\- This comment is generated from filplus website after a notary sign the datacap proposal.
 
 ```
 ## Request Proposed
@@ -67,25 +67,30 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Cancel Proposed Comment_
 
-\- This comment generated from filplus website when notaries canceled their proposal request.
+\- This comment  is generated from filplus website when notaries canceled their proposal request.
 
 ```
 ## Canceled Request
 The following request has been canceled by the notary, thus should not be considered as valid anymore.
+
 #### Message sent to Filecoin Network
 >bafy2bzacebmk2f7qoydyzvas3sjdw3ib3nuwy324zqo2zjtkqyqlvh4xvq6rs 
+
 #### Address 
 > t1y6grz7kkjs5wyvg4mp5jqjl3unqt7t5ktqlrf2q
+
 #### Datacap Allocated
 > 50.00TiB
+
 #### Signer Address
 > t1fmqtnifrcnv4753hoyhjalgsv5klimrxmk7ekoq
+
 #### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacebmk2f7qoydyzvas3sjdw3ib3nuwy324zqo2zjtkqyqlvh4xvq6rs
 ```
 
 ## _Request Approved Comment_
 
-\- This comment generated from filplus website by the operation of notaries. The second message is called the approval message. 
+\- This comment is generated from filplus website after a notary sign the datacap approval.
 
 ```
 ## Request Approved
@@ -105,7 +110,6 @@ Your Datacap Allocation Request has been approved by the Notary
 
 #### Id
 > ffbab51c-2c7c-4a0e-b0b7-e2d4e7f86875
-
 
 #### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacec7gf6xycdqw3fzgs76ppn3mgtojntd5tvqrrmedvcqciw5tghjps
 ```
