@@ -4,7 +4,7 @@
 
 ## _Datacap Request Trigger Comment_
 
-\-  This is a manual comment triggered by Root Key Holders. In order to trigger this comment, the necessary information in the application must be filled in completely and correctly.
+\-  This is a manual comment triggered by Root Key Holders. In order to trigger this comment, the necessary information in the application must be filled in completely and correctly. (v3)
 
 ```
 ## Datacap Request Trigger
@@ -21,7 +21,7 @@
 
 ## _DataCap Allocation Requested Comment_
 
-\- This comment is made by the LDN bot after the Datacap Request Trigger message has been created.
+\- This comment is created by the LDN bot after the Datacap Request Trigger message has been created.
 
 ```
 ## DataCap Allocation requested
@@ -41,7 +41,7 @@
 
 ## _Request Proposed Comment_
 
-\- This comment is triggered by the notaries using the filplus website. The first message is called the proposal message. 
+\- This comment generated from filplus website by the operation of notaries. The first message is called the proposal message. 
 
 ```
 ## Request Proposed
@@ -67,7 +67,7 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Request Approved Comment_
 
-\- This comment is triggered by the notaries using the filplus website. The second message is called the approval message. 
+\- This comment generated from filplus website by the operation of notaries. The second message is called the approval message. 
 
 ```
 ## Request Approved
@@ -91,9 +91,46 @@ Your Datacap Allocation Request has been approved by the Notary
 
 #### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacec7gf6xycdqw3fzgs76ppn3mgtojntd5tvqrrmedvcqciw5tghjps
 ```
+
+## _Issue Reconnection Request_
+
+\- ask fabri for description.
+
+```
+## Multisig Notary Reconnection Request
+#### Multisig Notary Address
+> f01105812
+#### Client Address
+> f1yswits4hd4zu6n2pl7nk7cspcuieuzl7btjn5ia
+#### Notary Governance Issue
+> https://github.com/keyko-io/filecoin-notaries-onboarding/issues/370
+```
+
+## _Notary Confirmation Comment_
+
+\- ask fabri for description.
+
+```
+## The request has been signed by a new Root Key Holder
+#### Message sent to Filecoin Network
+>bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
+#### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
+```
+
+## _Weekly DataCap Allocation Update Comment_
+
+\- ask fabri for description.
+
+```
+## Weekly DataCap Allocation Update requested
+#### Update to expected weekly DataCap usage rate
+> 10TiB
+```
+
+
 ## _Multisig Notary Requested Comment_
 
-\- Old template used for creating multisig. **Not used anymore**.
+\- Old template used for creating multisig. **Not used anymore**. (v2)
 
 ```
 ## Multisig Notary requested
@@ -108,7 +145,7 @@ Your Datacap Allocation Request has been approved by the Notary
 
 ## _Subsequent  Allocation Comment_
 
-\- This comment is made by the bot with subsequent allocation number information.
+\- This comment is created by the bot with subsequent allocation number information.
 
 ```
 ## DataCap Allocation requested
