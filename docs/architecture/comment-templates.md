@@ -65,6 +65,24 @@ Your Datacap Allocation Request has been approved by the Notary
 #### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacec7gf6xycdqw3fzgs76ppn3mgtojntd5tvqrrmedvcqciw5tghjps
 ```
 
+## _Cancel Proposed Comment_
+
+\- This comment generated from filplus website when notaries canceled their proposal request.
+
+```
+## Canceled Request
+The following request has been canceled by the notary, thus should not be considered as valid anymore.
+#### Message sent to Filecoin Network
+>bafy2bzacebmk2f7qoydyzvas3sjdw3ib3nuwy324zqo2zjtkqyqlvh4xvq6rs 
+#### Address 
+> t1y6grz7kkjs5wyvg4mp5jqjl3unqt7t5ktqlrf2q
+#### Datacap Allocated
+> 50.00TiB
+#### Signer Address
+> t1fmqtnifrcnv4753hoyhjalgsv5klimrxmk7ekoq
+#### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacebmk2f7qoydyzvas3sjdw3ib3nuwy324zqo2zjtkqyqlvh4xvq6rs
+```
+
 ## _Request Approved Comment_
 
 \- This comment generated from filplus website by the operation of notaries. The second message is called the approval message. 
