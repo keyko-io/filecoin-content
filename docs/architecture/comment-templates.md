@@ -106,17 +106,6 @@ Your Datacap Allocation Request has been approved by the Notary
 > https://github.com/keyko-io/filecoin-notaries-onboarding/issues/370
 ```
 
-## _Notary Confirmation Comment_
-
-\- This comment is posted when a RKH signs a transaction.
-
-```
-## The request has been signed by a new Root Key Holder
-#### Message sent to Filecoin Network
->bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
-#### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
-```
-
 ## _Weekly DataCap Allocation Update Comment_
 
 \- This comment is used for updating the weekly datacap request.
@@ -200,3 +189,42 @@ Your Datacap Allocation Request has been approved by the Notary
 | 1166  | 6  |  50TiB | 21.01  | 10.84TiB
     
 ```
+
+
+## NOTARY APPLICATION
+
+## _Notary Request Approved Comment_
+
+\-  This is a manual comment triggered by Root Key Holders after the notary application has been created with necessary informations.
+
+```
+## Request Approved
+#### Address
+> f1111222333
+#### Datacap Allocated
+> 5PiB
+```
+
+## _Notary Confirmation Comment_
+
+\- This comment is posted by bot when a RKH signed a transaction.
+
+```
+## The request has been signed by a new Root Key Holder
+#### Message sent to Filecoin Network
+>bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
+#### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
+```
+
+## _Notary Letger Verified Comment_
+
+\- This comment checks ledger verification.
+
+```
+## Notary Ledger Verified
+#### Message sent to Filecoin Network
+> Message CID: bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
+ #### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
+```
+
+
