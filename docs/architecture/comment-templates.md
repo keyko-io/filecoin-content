@@ -238,7 +238,7 @@ Your Datacap Allocation Request has been approved by the Notary
 #### You can check the status of the message here: https://filfox.info/en/message/bafy2bzacedeu7ymgdg3gwy522gtoy4a6j6v433cur4wjlv2xjeqtvm4bkymoi
 ```
 
-## _Notary Letger Verified Comment_
+## _Notary Ledger Verified Comment_
 
 \- This comment checks ledger verification.
 
