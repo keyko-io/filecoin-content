@@ -1,0 +1,54 @@
+{
+  "notaries": [
+    {
+      "id": 1,
+      "organization": "Test Project 1",
+      "name": "Foo Bar",
+      "election_round": "4th",
+      "status": "Active",
+      "use_case": "Web 3.0 Applications",
+      "location": "Europe",
+      "notary_application_link": "https://github.com/filecoin-project/notary-governance/issues/999999",
+      "website": "",
+      "email": ["jane@gmail.com", "", ""],
+      "fil_slack_id": "",
+      "github_user": ["foobar", ""],
+      "ldn_config": {
+        "active_signer": true,
+        "signing_address": "f1231sdsadafafaafafafaff23njfafa12"
+      },
+      "direct_config": {
+        "active_signer": true,
+        "signing_address": "f21313asfas1jjfah1fafasf2jafafaa12"
+      },
+      "previous_config": {
+        "signing_address": "f21313asfas1jjfah1fafasf2jafafaa12"
+      }
+    },
+    {
+      "id": 2,
+      "organization": "Kebab",
+      "name": "Joe Doe",
+      "election_round": "4th",
+      "status": "Active",
+      "use_case": "General",
+      "location": "Europe",
+      "notary_application_link": "https://github.com/filecoin-project/notary-governance/issues/9999991",
+      "website": "",
+      "email": ["dokimoki@outlook.com", "", ""],
+      "fil_slack_id": "",
+      "github_user": ["dokimoki", ""],
+      "ldn_config": {
+        "active_signer": true,
+        "signing_address": "f1irqs2gmctiv3jcddasdasddasdasdxh3k4b2wc24i"
+      },
+      "direct_config": {
+        "active_signer": true,
+        "signing_address": "f1irqs2gmctad2adsdadaasdasdassvf4ixh3k4b2wc24i"
+      },
+      "previous_config": {
+        "signing_address": ""
+      }
+    }
+  ]
+}
