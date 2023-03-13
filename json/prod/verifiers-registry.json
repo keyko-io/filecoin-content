@@ -730,6 +730,31 @@
       }
     },
     {
+      "id": 37,
+      "organization": "CodoonHealth",
+      "name": "Holiday",
+      "election_round": "4th",
+      "status": "Active",
+      "use_case": "General",
+      "location": "Greater China Region (GCR)",
+      "notary_application_link": "https://github.com/filecoin-project/notary-governance/issues/752",
+      "website": "",
+      "email": ["holiday@codoonhealth.com", "", ""],
+      "fil_slack_id": "",
+      "github_user": ["Holiday507", ""],
+      "ldn_config": {
+        "active_signer": true,
+        "signing_address": "f1sa3dp3a7fwirrsxjdthvzneo7rnjcrrfllsnjpq"
+      },
+      "direct_config": {
+        "active_signer": true,
+        "signing_address": "f1sa3dp3a7fwirrsxjdthvzneo7rnjcrrfllsnjpq"
+      },
+      "previous_config": {
+        "signing_address": ""
+      }
+    },
+    {
       "id": 38,
       "organization": "FILWallet",
       "name": "Peng Kai",
@@ -749,6 +774,31 @@
       "direct_config": {
         "active_signer": true,
         "signing_address": "f1qnumecdypgrbaebtkdfjnwt5ndacadcuas3deiq"
+      },
+      "previous_config": {
+        "signing_address": ""
+      }
+    },
+    {
+      "id": 39,
+      "organization": "Interstellar Storage（ShenZhen)",
+      "name": "Interstellar Storage（ShenZhen)",
+      "election_round": "4th",
+      "status": "Active",
+      "use_case": "Professional Services (Hosting Reseller, Long-term Backups, Data Warehousing)",
+      "location": "Greater China Region (GCR)",
+      "notary_application_link": "https://github.com/filecoin-project/notary-governance/issues/768",
+      "website": "",
+      "email": ["nikkaz@interstel.ntesmail.com", "", ""],
+      "fil_slack_id": "",
+      "github_user": ["kyokaki", ""],
+      "ldn_config": {
+        "active_signer": true,
+        "signing_address": "f1ktp3fmcfnt3tjeansazq4ed5qkrs6pbn4lvwgvq"
+      },
+      "direct_config": {
+        "active_signer": true,
+        "signing_address": "f1ktp3fmcfnt3tjeansazq4ed5qkrs6pbn4lvwgvq"
       },
       "previous_config": {
         "signing_address": ""
@@ -1369,14 +1419,14 @@
       "github_user": ["zcfil", ""],
       "ldn_config": {
         "active_signer": true,
-        "signing_address": "f17xummecmkqgjhm4fesktesaieumn7ugarwucwty"
+        "signing_address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga"
       },
       "direct_config": {
         "active_signer": true,
-        "signing_address": "f17xummecmkqgjhm4fesktesaieumn7ugarwucwty"
+        "signing_address": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga"
       },
       "previous_config": {
-        "signing_address": ""
+        "signing_address": "f17xummecmkqgjhm4fesktesaieumn7ugarwucwty"
       }
     },
     {
