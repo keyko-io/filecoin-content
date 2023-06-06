@@ -1,21 +1,14 @@
 {
-	"Datacap Application Type": "ldn-v3",
-	"Project Id": 0,
-	"Datacap Applicant": "testmeew  ",
-	"Application Info": {
-		"Core Information": {
-			"Data Owner Name": "testmeew  ",
-			"Data Owner Country/Region": "Antarctica",
-			"Data Owner Industry": "N/A",
-			"Website": "www.kebab.com",
-			"Social Media": "N/A"
-		},
-		"Datacap Allocations": [],
-		"Application Lifecycle": {
-			"Validated Time": "Mon, 29 May 2023 14:40:04 GMT",
-			"First Allocation Time": 0,
-			"Is Active": true,
-			"Time of New State": "Mon, 29 May 2023 14:40:04 GMT"
-		}
-	}
+	"name": "testmeew  ",
+	"region": "Antarctica",
+	"website": "www.kebab.com",
+	"datacapRequested": "500TiB",
+	"dataCapWeeklyAllocation": "10TiB",
+	"address": "t1j4pryq7ctou7qtkpg3wjjslxwfdregjg75nlxfq",
+	"isCustomNotary": false,
+	"identifier": null,
+	"correct": true,
+	"errorMessage": "",
+	"errorDetails": "",
+	"isAddressFormatted": false
 }
