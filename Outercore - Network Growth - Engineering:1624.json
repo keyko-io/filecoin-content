@@ -10,12 +10,28 @@
 			"Website": "https://fw.services",
 			"Social Media": "N/A"
 		},
-		"Datacap Allocations": [],
+		"Datacap Allocations": [
+			{
+				"uuid": "4c6dbc44-5597-41b3-a33a-862b7b6c93cb",
+				"Allocation Amount": "5.00TiB",
+				"Notary Address": "f1irqs2gmctiv3jcdfwuch7oxvf4ixh3k4b2wc24i",
+				"Client Address": "f1k2ltj5hut3rlrhdhjebidjhpliys3xqphtowhsq",
+				"Time of Allocation": "Wed, 16 Aug 2023 14:10:38 GMT",
+				"Time of Request": "0",
+				"Signers": [
+					{
+						"Signing Address": "f1irqs2gmctiv3jcdfwuch7oxvf4ixh3k4b2wc24i",
+						"Time of Signature": "0",
+						"Message CID": ""
+					}
+				]
+			}
+		],
 		"Application Lifecycle": {
 			"Validated Time": "Wed, 16 Aug 2023 13:50:37 GMT",
-			"First Allocation Time": "0",
+			"First Allocation Time": "Wed, 16 Aug 2023 14:10:38 GMT",
 			"Is Active": true,
-			"Time of New State": "Wed, 16 Aug 2023 13:50:37 GMT"
+			"Time of New State": "Wed, 16 Aug 2023 14:10:38 GMT"
 		}
 	}
 }
