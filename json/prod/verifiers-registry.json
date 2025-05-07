@@ -1116,7 +1116,7 @@
       "website": "",
       "email": ["max@coinsummer.io", "", ""],
       "fil_slack_id": "",
-      "github_user": ["yuwenhui", ""],
+      "github_user": ["yuwenhui", "maxvint"],
       "ldn_config": {
         "active_signer": true,
         "signing_address": "f1ui5iy4mmkxjbw7752omiwp2ols2fzv4thrayagi"
@@ -1766,7 +1766,7 @@
       "website": "",
       "email": ["lengbo@storswift.com", "", ""],
       "fil_slack_id": "",
-      "github_user": ["coder-lb", ""],
+      "github_user": ["coder-lb", "spaceT9"],
       "ldn_config": {
         "active_signer": true,
         "signing_address": "f1dktm3abgn7wkpepxab4q3eaw24qktizk4esfzyy"
